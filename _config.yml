@@ -3,10 +3,10 @@ description: "one sheep, two sheep, three..."
 baseurl: "/blog"
 url: "https://LifeOnFloor.github.io"
 
-theme: "minimal-mistakes-jekyll"
+theme: minimal-mistakes-jekyll
 
 plugins:
-  - jekyll-optional-front-matter
+  - jekyll-include-cache
 
 # Build settings
 markdown: kramdown
