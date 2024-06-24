@@ -7,7 +7,6 @@ theme: "minimal-mistakes-jekyll"
 
 plugins:
   - jekyll-optional-front-matter
-  - jekyll-include-cache
 
 # Build settings
 markdown: kramdown
