@@ -1,1 +1,15 @@
-theme: jekyll-theme-cayman
+title: "LifeOnFloor"
+description: "one sheep, two sheep, three..."
+baseurl: "/blog"
+url: "https://LifeOnFloor.github.io"
+
+theme: "minimal-mistakes-jekyll"
+
+plugins:
+  - jekyll-optional-front-matter
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+minimal_mistakes_skin: "dark"
