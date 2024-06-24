@@ -6,7 +6,6 @@ url: "https://LifeOnFloor.github.io"
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 
 plugins:
-  - jekyll-optional-front-matter
   - jekyll-include-cache
 
 # Build settings
