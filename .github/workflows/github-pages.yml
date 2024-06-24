@@ -28,7 +28,7 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ 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 }}
           publish_dir: ./_site
 
       - name: Cache Gems
